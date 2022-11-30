@@ -14,5 +14,47 @@
     <ClCompile Include="..\..\source\p04.c">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\source\p05.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\p06.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\p07.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\p08.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\p13.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\p14.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\p19.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\p21.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\p26.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\p28.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\p30.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\p37.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\6_11.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\p25.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

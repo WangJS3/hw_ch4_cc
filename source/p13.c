@@ -1,0 +1,23 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+void printArray(const int a[][3]);
+
+int main(void)
+{
+	int array1[2][3] = { {1,2,3},{4,5,6} };
+	int array2[2][3] = { 1,2,3,4,5 };
+	int array3[2][3] = { {1,2},{4} };
+
+	printf("Value by array1 by row are:\n");
+	printArray(array1);
+
+	printf("Value by array2 by row are:\n");
+	printArray(array2);
+
+	printf("Value by array3 by row are:\n");
+	printArray(array3);
+
+	system("pause");
+	return 0;
+}

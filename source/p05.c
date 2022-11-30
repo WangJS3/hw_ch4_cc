@@ -3,13 +3,8 @@
 
 int main(void)
 {
-	int n[10];
+	int n[10] = { 32,27,64,18,95,14,90,70,60,37 };
 	int i;
-
-	for (i = 0; i < 10; i++)
-	{
-		n[i] = 0;
-	}
 
 	printf("%s%13s\n", "Element", "Value");
 

@@ -19,7 +19,21 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\source\6_11.c" />
     <ClCompile Include="..\..\source\p04.c" />
+    <ClCompile Include="..\..\source\p05.c" />
+    <ClCompile Include="..\..\source\p06.c" />
+    <ClCompile Include="..\..\source\p07.c" />
+    <ClCompile Include="..\..\source\p08.c" />
+    <ClCompile Include="..\..\source\p13.c" />
+    <ClCompile Include="..\..\source\p14.c" />
+    <ClCompile Include="..\..\source\p19.c" />
+    <ClCompile Include="..\..\source\p21.c" />
+    <ClCompile Include="..\..\source\p25.cpp" />
+    <ClCompile Include="..\..\source\p26.c" />
+    <ClCompile Include="..\..\source\p28.c" />
+    <ClCompile Include="..\..\source\p30.c" />
+    <ClCompile Include="..\..\source\p37.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
